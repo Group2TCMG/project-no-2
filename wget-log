@@ -1,0 +1,27 @@
+--2018-02-08 20:02:29--  http://physis.arch.tamu.edu/files.new.tar
+Resolving physis.arch.tamu.edu (physis.arch.tamu.edu)... 165.91.122.203
+Connecting to physis.arch.tamu.edu (physis.arch.tamu.edu)|165.91.122.203|:80... failed: Connection timed out.
+Retrying.
+
+--2018-02-08 20:04:41--  (try: 2)  http://physis.arch.tamu.edu/files.new.tar
+Connecting to physis.arch.tamu.edu (physis.arch.tamu.edu)|165.91.122.203|:80... failed: Connection timed out.
+Retrying.
+
+--2018-02-08 20:06:53--  (try: 3)  http://physis.arch.tamu.edu/files.new.tar
+Connecting to physis.arch.tamu.edu (physis.arch.tamu.edu)|165.91.122.203|:80... failed: Connection timed out.
+Retrying.
+
+--2018-02-08 20:09:07--  (try: 4)  http://physis.arch.tamu.edu/files.new.tar
+Connecting to physis.arch.tamu.edu (physis.arch.tamu.edu)|165.91.122.203|:80... failed: Connection timed out.
+Retrying.
+
+--2018-02-08 20:11:21--  (try: 5)  http://physis.arch.tamu.edu/files.new.tar
+Connecting to physis.arch.tamu.edu (physis.arch.tamu.edu)|165.91.122.203|:80... failed: Connection timed out.
+Retrying.
+
+--2018-02-08 20:13:37--  (try: 6)  http://physis.arch.tamu.edu/files.new.tar
+Connecting to physis.arch.tamu.edu (physis.arch.tamu.edu)|165.91.122.203|:80... failed: Connection timed out.
+Retrying.
+
+--2018-02-08 20:15:54--  (try: 7)  http://physis.arch.tamu.edu/files.new.tar
+Connecting to physis.arch.tamu.edu (physis.arch.tamu.edu)|165.91.122.203|:80... 
